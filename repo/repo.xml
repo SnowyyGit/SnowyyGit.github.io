@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/XeSnows</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>instagram follow me</name>
+			<url>https://www.instagram.com/silentwraiths</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
